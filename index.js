@@ -18,7 +18,7 @@ client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
 });
 
-const BOT_TOKEN = 'MTEwMjAwODY3NDMxMjAxMTgwNg.GawOsZ.vQYaD2Z5qxNHimtSlwVU_4KJi3zJyfIEBBKBIM';
+const BOT_TOKEN = 'MTEwMjAwODY3NDMxMjAxMTgwNg.GWGN4e.l333MR-Wh_ILytrS40eIMzKwm1VlnpYpQqpOXg';
 const CHANNEL_ID = '1212498683824709674'; // Replace with your channel ID where the image will be sent
 
 client.login(BOT_TOKEN);
